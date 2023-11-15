@@ -1,0 +1,27 @@
+
+
+Sistema de Toma de Asistencias
+
+1. **Alta, Baja y Modificación de Alumnos**
+   - El sistema debe permitir el registro de alumnos con los siguientes datos: Apellido, Nombre, DNI y Fecha de Nacimiento.
+   - Los alumnos registrados pueden ser editados (modificación) o eliminados (baja) en cualquier momento.
+
+2. **Interfaz Gráfica**
+   - Se debe desarrollar una interfaz gráfica amigable que permita a los usuarios administrar la información de los alumnos de manera sencilla y eficiente.
+
+3. **Listado Alfabéticamente**
+   - La lista de alumnos debe mostrarse en orden alfabético, primero por apellido y luego por nombre.
+
+4. **Carga de Asistencias**
+   - El sistema debe proporcionar una funcionalidad para cargar asistencias.
+   - Se debe permitir marcar si un alumno asistió o no a una clase específica.
+
+5. **Evaluación de Promoción**
+   - El sistema debe contar la cantidad de asistencias de cada alumno.
+   - Debe determinar si un alumno promociona o no, basándose en un criterio definido previamente (por ejemplo, si tiene el 80% de asistencias).
+   - Se debe permitir ingresar el nombre del alumno y ver su estado de promoción.
+
+6. **Validaciones**
+   - Implementar validaciones en los formularios para asegurar que los datos ingresados sean correctos y completos.
+   - Validar que los datos introducidos sean coherentes y cumplan con los requisitos definidos.
+
